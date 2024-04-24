@@ -2,8 +2,7 @@
     "name": "my-nodejs-app",
     "version": "1.0.0",
     "description": "My Node.js application with docker",
-    "main": "app.js",
     "scripts": {
-      "start": "node app.js"
+      "start": "echo 'szexdrgvtyhbunj'"
     }
 }
